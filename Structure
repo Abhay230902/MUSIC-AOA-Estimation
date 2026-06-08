@@ -1,0 +1,9 @@
+## Repository Structure
+
+MUSIC-DOA-Estimation/
+│
+├── music_aoa_estimation.m
+├── README.md
+├── LICENSE
+└── results/
+    └── music_spectrum.png
