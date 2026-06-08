@@ -29,9 +29,9 @@ The algorithm:
 - 60°
 - 85°
 
-## Result
+## Simulation Result
 
-![MUSIC Spectrum](results/music_spectrum.png)
+![MUSIC Spectrum](music_spectrum.png)
 
 ## Future Work
 
